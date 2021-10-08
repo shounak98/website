@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: 'Vedang Wartikar',
+  siteTitle: 'Shounak Pawar',
   siteDescription:
-    'Vedang Wartikar is a Software Engineer based in Pune.',
+    'Shounak Pawar is a Software Engineer based in Pune.',
   siteKeywords:
-    'Vedang Wartikar, Vedang, Wartikar, software engineer, backend engineer, developer',
-  siteUrl: 'https://vedang.dev',
+    'Shounak Pawar, Shounak Pawar, software engineer, backend engineer, developer',
+  siteUrl: 'https://shounak.dev',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Vedang Wartikar V W',
+  name: 'Shounak Pawar S P',
   location: 'Pune, IN',
-  email: 'vedangwartikar17@gmail.com',
-  github: 'https://github.com/vedangwartikar',
-  twitterHandle: '@vedangwartikar',
+  email: 'shounakpawar98@gmail.com',
+  github: 'https://github.com/shounak98',
+  twitterHandle: '@r',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.vedang.dev',
+      url: 'https://github.com/shounak98',
     },
     {
       name: 'Linkedin',
-      url: 'https://linkedin.vedang.dev',
+      url: 'https://www.linkedin.com/in/shounak-pawar-a07a8318b/',
     },
     // {
     //   name: 'Codepen',
@@ -32,7 +32,7 @@ module.exports = {
     // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/vedangwartikar',
+      url: 'https://twitter.com/ShounakSP',
     },
   ],
 
