@@ -1,12 +1,13 @@
 ---
 date: '2018-12-29'
-title: 'Process Monitoring Tool (ProcMon)'
+title: 'Wisconsin Cancer Prediction'
 github: ''
-external: 'https://github.com/vedangwartikar/procmon'
+external: 'https://github.com/shounak98/Wisconsin-Cancer-Prediction'
 tech:
-  - C++
-  - tlhelp32
+  - python
+  - numpy
+  - sci-kit learn 
+  - scipy 
 showInProjects: true
 ---
-
-Process Monitoring Tool provides a detailed log of all the running processes(.exe files) on your Windows NT machine
+This project helps in predicting whether the tumor is benign or malignant based on numerous features. Wisconsin Breast Cancer dataset, available under sci-kit learn, provides 569 datapoints along with 30 distinct attributes.
