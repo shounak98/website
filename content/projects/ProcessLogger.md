@@ -1,7 +1,7 @@
 ---
 date: '2018-08-01'
 title: 'Process Logger'
-github: 'https://github.com/vedangwartikar/process-log-mail'
+github: 'https://github.com/shounak98/process-log-mail'
 external: ''
 tech:
   - Python
