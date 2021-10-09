@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+/*import React, { useState, useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 import sr from '@utils/sr';
 import { srConfig } from '@config';
@@ -258,4 +258,4 @@ Jobs.propTypes = {
   data: PropTypes.array.isRequired,
 };
 
-export default Jobs;
+export default Jobs;*/
