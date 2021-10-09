@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Shounak Pawar is a Software Engineer based in Pune.',
   siteKeywords:
-    'Shounak Pawar, Shounak Pawar, software engineer, backend engineer, developer',
+    'Shounak Pawar, Shounak Pawar , software engineer, backend engineer, developer',
   siteUrl: 'https://shounak.dev',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
@@ -12,7 +12,7 @@ module.exports = {
   location: 'Pune, IN',
   email: 'shounakpawar98@gmail.com',
   github: 'https://github.com/shounak98',
-  twitterHandle: '@r',
+  twitterHandle: '@ShounakSP',
   socialMedia: [
     {
       name: 'GitHub',
@@ -41,10 +41,10 @@ module.exports = {
       name: 'About',
       url: '/#about',
     },
-    {
+   /* {
       name: 'Experience',
       url: '/#jobs',
-    },
+    },*/
     {
       name: 'Projects',
       url: '/#projects',
