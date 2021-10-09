@@ -1,15 +1,12 @@
 ---
 date: '2019-11-12'
-title: 'Lab Assistant'
-github: 'https://github.com/vedangwartikar/lab-assistant'
+title: 'Blockchain based Land Refistry'
+github: 'https://github.com/shounak98'
 external: ''
 tech:
   - Python
-  - Docker
-  - Ansible
-  - NLP
 company: ''
 showInProjects: true
 ---
 
-An architecture-neutral app which helps in reducing the manual efforts of a lab assistant. It can be accessed through Slack and perform basic tasks on multiple PCs.
+A blockchain based ledger of land regisrty for storing 7/12 extract on private blockchain.
