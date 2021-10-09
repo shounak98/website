@@ -1,13 +1,14 @@
 ---
 date: '2017-12-01'
-title: 'GRE Word Bot'
-github: 'https://github.com/vedangwartikar/gre-word-bot'
+title: 'MedBot'
+github: 'https://github.com/shounak98/MedBot'
 external: ''
 tech:
   - Python
   - Telegram-API
+  - TeleBot
   - Pandas
 showInProjects: true
 ---
 
-Telegram Bot which gives a random GRE Word from the Magoosh Dataset. Check it out [here](https://t.me/dogecoin_updates_bot)
+Telegram Bot which gives a medicine schedule based on prescription Dataset. Check it out [here](https://t.me/med_sched_bot)
