@@ -97,7 +97,7 @@ module.exports = {
               // the language "sh" which will highlight using the
               // bash highlighter.
               aliases: {},
-              // This toggles the display of line numbers globally alongside the code.
+              // This toggles the display of line numbers globally alongside the .
               // To use it, add the following line in gatsby-browser.js
               // right after importing the prism color scheme:
               //  require("prismjs/plugins/line-numbers/prism-line-numbers.css")
